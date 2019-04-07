@@ -1,20 +1,20 @@
-Extract/Transform/Load for Astronomical Catalogs
+# Extract/Transform/Load for Astronomical Catalogs
 
-These Python programs are used as Extract/Transform/Load (ETL) tools to create high
-precision astronomical catalogs from inclusion in planetarium programs, firmware for
-telescope controllers, ...etc. 
+This is a set of Python programs that are used as Extract/Transform/Load (ETL) tools
+to create high precision astronomical catalogs from inclusion in planetarium programs,
+firmware for telescope controllers, ...etc. 
 
 # Stars:
   Can extract stars up to a certain magnitude.
   Data includes the Constellation, Bayer designation (Greek letter),
-  right ascension, declination (both J2000), magnitude, and common name.
+  Right Ascension, Declination (both J2000), magnitude, and common name.
 
 # Messier:
   All 109 objects are included.
   The identity of M102 is uncertain and therefore not included. See more [here](http://www.messier.seds.org/m/m102d.html) and [here](https://en.wikipedia.org/wiki/Messier_102)
 
 # Caldwell Objects:
-  All 109 objects
+  All 109 objects are included.
 
 # Herschel 400
   All objects are effectively included (398 out of 400 objects)
