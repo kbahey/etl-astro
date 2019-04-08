@@ -3,10 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Catalog data
-OpenNGC/
-kstars/
-
 # C extensions
 *.so
 
@@ -106,3 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Catalog data
+OpenNGC/
+kstars/
+
+# Output files
+caldwell.h
+constants.h
+herschel.h
+messier.h
+stars.h
+ngc.h
+ic.h
