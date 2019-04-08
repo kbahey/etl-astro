@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Catalog data
+OpenNGC/
+kstars/
+
 # C extensions
 *.so
 
